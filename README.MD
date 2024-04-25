@@ -34,7 +34,7 @@
 
 - 📫 Feel free to reach me out **faathirnugroho13@gmail.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [Jonggun](https://discordapp.com/users/475166089261875210) my username!
+- 🏠 Don't hesitate to drop me a **👋** on Discord –  [jonggun_](https://discordapp.com/users/475166089261875210) my username!
 <!--Intro end-->
 
 
