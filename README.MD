@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **nothing LMAOOO**
+- 🔭 I'm not working on anything **atm anything LMAOOO**
 
 - 🌱 I’m currently learning **basic fundamentals for a website**
 
