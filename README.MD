@@ -18,11 +18,11 @@
 
 
 <!--Intro start-->
-- 🔭 I'm currently working on **Humanika Consulting Project!**
+- 🔭 I'm currently working on **Emobo Project!**
 
-- 🌱 I’m currently learning **basic fundamentals for a website**
+- 🌱 I’m currently learning **tech-stack for a website**
 
-- ☁️ I've keen interest in Full-stack developer.
+- ☁️ I've keen interest in back-end developer.
 
 - 📫 Feel free to reach me out **faathirnugroho13@gmail.com**
 
